@@ -1,0 +1,3 @@
+C:/OpenCVProjects/RotatedRectangle/build/CMakeFiles/hello.dir
+C:/OpenCVProjects/RotatedRectangle/build/CMakeFiles/edit_cache.dir
+C:/OpenCVProjects/RotatedRectangle/build/CMakeFiles/rebuild_cache.dir

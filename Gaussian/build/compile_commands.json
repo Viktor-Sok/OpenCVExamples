@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/OpenCVProjects/Gaussian/build",
+  "command": "C:\\Dev\\mingw64_winlibs\\bin\\g++.exe  @CMakeFiles/hello.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hello.dir\\main.cpp.obj -c C:\\OpenCVProjects\\Gaussian\\main.cpp",
+  "file": "C:/OpenCVProjects/Gaussian/main.cpp"
+}
+]

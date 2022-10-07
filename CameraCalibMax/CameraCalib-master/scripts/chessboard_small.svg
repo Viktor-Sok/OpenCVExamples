@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+        <svg
+            width="220mm"
+            height="180mm"
+        >
+            <rect width="100%" height="100%"  fill="white"/>
+            <g>
+<rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="40.000000mm"
+       height="40.000000mm"
+       x="10.000000mm"
+       y="10.000000mm"/>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="40.000000mm"
+       height="40.000000mm"
+       x="90.000000mm"
+       y="10.000000mm"/>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="40.000000mm"
+       height="40.000000mm"
+       x="170.000000mm"
+       y="10.000000mm"/>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="40.000000mm"
+       height="40.000000mm"
+       x="50.000000mm"
+       y="50.000000mm"/>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="40.000000mm"
+       height="40.000000mm"
+       x="130.000000mm"
+       y="50.000000mm"/>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="40.000000mm"
+       height="40.000000mm"
+       x="10.000000mm"
+       y="90.000000mm"/>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="40.000000mm"
+       height="40.000000mm"
+       x="90.000000mm"
+       y="90.000000mm"/>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="40.000000mm"
+       height="40.000000mm"
+       x="170.000000mm"
+       y="90.000000mm"/>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="40.000000mm"
+       height="40.000000mm"
+       x="50.000000mm"
+       y="130.000000mm"/>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="40.000000mm"
+       height="40.000000mm"
+       x="130.000000mm"
+       y="130.000000mm"/>
+    
+</g>
+        </svg>
+    

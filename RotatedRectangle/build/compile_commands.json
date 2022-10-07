@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/OpenCVProjects/RotatedRectangle/build",
+  "command": "C:\\Dev\\mingw64_winlibs\\bin\\g++.exe  @CMakeFiles/hello.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\hello.dir\\main.cpp.obj -c C:\\OpenCVProjects\\RotatedRectangle\\main.cpp",
+  "file": "C:/OpenCVProjects/RotatedRectangle/main.cpp"
+}
+]

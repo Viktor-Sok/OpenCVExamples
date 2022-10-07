@@ -1,0 +1,3 @@
+C:/OpenCVProjects/AccessingPixels/build/CMakeFiles/hello.dir
+C:/OpenCVProjects/AccessingPixels/build/CMakeFiles/edit_cache.dir
+C:/OpenCVProjects/AccessingPixels/build/CMakeFiles/rebuild_cache.dir

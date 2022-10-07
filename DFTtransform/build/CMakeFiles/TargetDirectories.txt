@@ -1,0 +1,3 @@
+C:/OpenCVProjects/DFTtransform/build/CMakeFiles/hello.dir
+C:/OpenCVProjects/DFTtransform/build/CMakeFiles/edit_cache.dir
+C:/OpenCVProjects/DFTtransform/build/CMakeFiles/rebuild_cache.dir

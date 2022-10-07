@@ -1,0 +1,3 @@
+C:/OpenCVProjects/Windows/build/CMakeFiles/hello.dir
+C:/OpenCVProjects/Windows/build/CMakeFiles/edit_cache.dir
+C:/OpenCVProjects/Windows/build/CMakeFiles/rebuild_cache.dir
